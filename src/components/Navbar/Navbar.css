@@ -1,0 +1,24 @@
+.navbar{
+    margin-top:-960px;
+    border-bottom:1px;
+}
+
+.navbar-brand{
+    margin-left:180px;
+}
+.nav{
+    margin-right:80px;
+   
+
+}
+
+.btn0{
+    width: 134px;
+height: 53px;
+border-radius: 12px;
+background:rgb(25, 20, 20);
+color:white;
+border: 1px solid #6881FF;
+
+
+}
